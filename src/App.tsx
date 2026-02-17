@@ -33,3 +33,4 @@ function App() {
 }
 
 export default App
+// Furkan Akkamis - 2026
